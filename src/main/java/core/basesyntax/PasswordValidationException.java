@@ -5,4 +5,3 @@ public class PasswordValidationException extends Exception {
         super(wrongPasswords);
     }
 }
-//write your code here
